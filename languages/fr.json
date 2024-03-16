@@ -1,0 +1,25 @@
+{
+  "theme-data": {
+    "name": "Black++",
+    "description": "Thème sombre responsive."
+  },
+  "email": "e-mail",
+  "address": "info@plus-minus.com",
+  "phone": "Téléphone",
+  "number": "+02-123-456-789",
+  "edit-article": "modifier",
+  "by": "par",
+  "share": "partager",
+  "search": "chercher",
+  "search-placeholder": "écrire ici ce que vous cherchez",
+  "latest-posts": "articles récents",
+  "follow-me": "suivez-nous",
+  "powered-by": "propulsé par",
+  "designed-by": "habillé par",
+  "newer": "précédent",
+  "older": "suivant",
+  "search-results-for": "Occurences de",
+  "load-more-posts": "Voir plus",
+  "nothing-found-for": "Aucun résultat pour",
+  "search-term-too-short": "Terme de recherche trop court"
+}
